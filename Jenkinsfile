@@ -5,7 +5,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Using Maven - Test 2'
+                echo 'Using Maven - Test Trigger'
             }
         }
 
